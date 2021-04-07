@@ -10,15 +10,17 @@ Nous sommes une équipe de trois personnes, nous projetons d'organiser un évèn
 * inscrit au forum des amateurs de thé
 * journaliste, bloggeur,influenceur
 
-- est-ce que tu continues à te former sur le thé ?
-- est-ce que tu souhaites continuer à rencontrer des personnes intéressées par le thé "authentique" ?
-- ...
+- [ ] est-ce que tu consommes du thé tous les jours ?
+- [ ] est-ce que ton activité professionnel tourne autour du thé ?
+- [ ] est-ce que tu continues à te former sur le thé ?
+- [ ] est-ce que tu connais plus de 5 personnes intéressées par le thé ?
 
 ## contexte du problème - 2'
 
 story telling :
-- on souhaiterait plus s'investir dans le thé authentique mais les gens veulent du thé aromatisé
-- 
+Le thé aromatisé semble très largement préféré en France et les professionnels ont du mal à imaginer pouvoir vivre du thé authentique.
+La plupart des boutiques qui propose du thé, salon de thé, boutique de thé préfère garantir leur chiffre d'affaire en laissant une grande place aux thés aromatisés, infusions ou/et thé à l'anglaise.
+
 
 ## classement - 3'
 
