@@ -2,7 +2,7 @@
 
 ## présentation - 2'
 
-Nous sommes une équipe de trois personnes, nous projetons d'organiser un évènement qualitatif autour du thé "authentique". Avant de nous lancer dans la création effective de l'évènement, nous souhaitons recueillir l'avis de personnes susceptibles d'être intéressées par ce type de manifestation. Afin de déterminer la forme qui conviendrait le mieux, nous allons prendre le temps d'effectuer une série d'interview. C'est la raison pour laquelle nous t'avons te contactons.
+Nous sommes une équipe de trois personnes, nous projetons d'organiser un évènement qualitatif autour du thé "originel". Avant de nous lancer dans la création effective de l'évènement, nous souhaitons recueillir l'avis de personnes susceptibles d'être intéressées par ce type de manifestation. Afin de déterminer la forme qui conviendrait le mieux, nous allons prendre le temps d'effectuer une série d'interview. C'est la raison pour laquelle nous t'avons te contactons.
 
 ## données - 2'
 
