@@ -26,9 +26,9 @@ La plupart des boutiques qui propose du thé, salon de thé, boutique de thé pr
 
 ## classement - 3'
 
-1- j'aimerai proposer du thé "authentique" mais le marché n'est pas assez développer
-2- j'ai du mal à continuer à me former sur le thé. Manque de ressources de personnes compétentes
-3- J'ai du mal à indentifier des fournisseurs de qualité
+1. j'aimerai proposer du thé "authentique" mais le marché n'est pas assez développer  
+2. j'ai du mal à continuer à me former sur le thé. Manque de ressources de personnes compétentes
+3. J'ai du mal à indentifier des fournisseurs de qualité
 
 ## écoute - 15'
 
