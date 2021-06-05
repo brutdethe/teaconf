@@ -15,7 +15,7 @@ Nous sommes une équipe de trois personnes, nous projetons d'organiser un évèn
 - [ ] est-ce que ton activité professionnel tourne autour du thé ? Non
 - [ ] est-ce que tu continues à te former sur le thé ? Oui - prochaine formation sur l'expertise sensorielle du thé avec Carine Baudry - La QuintEssence
 - [ ] est-ce que tu connais plus de 5 personnes intéressées par le thé ? Oui
-- [ ] quels types de thés consommes tu ? En ce moemnt des Liu Bao - HeiCha
+- [ ] quels types de thés consommes tu ? En ce moment des LiuBao - HeiCha
 - [ ] tu consommes : théière occidentale, gaiwan, théière de chine ? Théière de Chine - gaiwan
 
 ## contexte du problème - 2'
