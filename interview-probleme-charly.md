@@ -31,6 +31,9 @@ La plupart des boutiques qui propose du thé, salon de thé, boutique de thé pr
 3. J'ai du mal à indentifier des fournisseurs de qualité
 
 Pensais ouvrir une Maison de Thé mais ne veut faire aucune concession, ne vendre que les thés qui lui plaît et pense que ce ne serait pas possible pour que le projet soit viable.
+Toujours en contact avec ses maîtres thé en Chine et continue à se former avec eux. 
+Frein pour la formation en France au niveau du coup (Olivier Scnheider et Katrin Rougeventre)
+Se fournit directement en Chine, commande plusieurs kilos de thé. Achète en France des thés non chinois (Thaïlande, Japon...), trouve certains thé chinois trop chers en France
 
 ## écoute - 15'
 - Aime le thé pour deux raisons :
@@ -38,8 +41,10 @@ Pensais ouvrir une Maison de Thé mais ne veut faire aucune concession, ne vendr
     - Thé à plusieurs = un vrai moment de rencontre, permet de créer du lien, de partager et de passer de bons moments entre amateurs
 
 - A commencé par le thé en sachet vers 12 ans, puis s'est orienté vers le thé en vrac qu'il consommait régulièrement puis découvert le thé authentique lors d'un stage dans une boutique de thé
-- Fac de chinois à La Rochelle, parti en Chine pour 5/6 mois puis 1 an. Véritable ouverture au monde du thé par le biais d'une rencontre. 1 ère visite dans une Maison de Thé, véritable coup de foudre, y passait 30h/semaine. Initiation aux thés et à la cérémonie
+- Fac de chinois à La Rochelle, parti en Chine pour 5/6 mois puis 1 an. Véritable ouverture au monde du thé par le biais d'une rencontre. 1 ère visite dans une Maison de Thé, véritable coup de foudre, y passait 30h/semaine. Initiation aux thés et à la cérémonie. A réalisé plusierus cérémonies lors d'évènements ou de salon et étonné par le côté un peu "folklore". 
 - Aime la rigueur et le côté un peu martial comme en karaté ou en TaiChi
-- Trésorier de l'ANVPTF (association nationale pour la valorisation des producteurs de thé frnaçais - travaillent sur la mise en place d'une formation complète autour du thé (culture, transformation, préparation, dégustation
+- Trésorier de l'ANVPTF (association nationale pour la valorisation des producteurs de thé frnaçais - travaillent sur la mise en place d'une formation complète autour du thé (culture, transformation, préparation, dégustation...)
 
 ## clôture - 2'
+
+Content de connaître Brut de Thé et ok pour qu'on revienne vers lui si on a plus de questions ! 
