@@ -1,0 +1,73 @@
+/* ABOUT */
+
+  Twitter:      @sudweb
+  Location:     South of France (Bordeaux, Toulouse, Montpellier, Avignon, Nîmes)
+  Design:       Matthieu Bué (@twikito)
+
+/* SITE */
+
+  Last Updated: 2021/07/27
+  Languages:    French, English
+  Standards:    HTML5, CSS3
+  Built with:   Jekyll <http://jekyllrb.com>
+                Atom <https://atom.io/>
+                Sublime Text <https://www.sublimetext.com/>
+                Visual Studio Code <https://code.visualstudio.com/>
+
+/* CONTRIBUTORS */
+
+  
+  Name:         borisschapira
+  Site:         <https://github.com/borisschapira>
+  
+  Name:         Twikito
+  Site:         <https://github.com/Twikito>
+  
+  Name:         lellex
+  Site:         <https://github.com/lellex>
+  
+  Name:         bertrandkeller
+  Site:         <https://github.com/bertrandkeller>
+  
+  Name:         nico3333fr
+  Site:         <https://github.com/nico3333fr>
+  
+  Name:         Julia-barbelane
+  Site:         <https://github.com/Julia-barbelane>
+  
+  Name:         newick
+  Site:         <https://github.com/newick>
+  
+  Name:         estelle
+  Site:         <https://github.com/estelle>
+  
+  Name:         oncletom
+  Site:         <https://github.com/oncletom>
+  
+  Name:         camilleroux
+  Site:         <https://github.com/camilleroux>
+  
+  Name:         almet
+  Site:         <https://github.com/almet>
+  
+  Name:         DirtyF
+  Site:         <https://github.com/DirtyF>
+  
+  Name:         FredericMartinez
+  Site:         <https://github.com/FredericMartinez>
+  
+  Name:         GaspardPO
+  Site:         <https://github.com/GaspardPO>
+  
+  Name:         goulvench
+  Site:         <https://github.com/goulvench>
+  
+  Name:         KewlCat
+  Site:         <https://github.com/KewlCat>
+  
+  Name:         marienfressinaud
+  Site:         <https://github.com/marienfressinaud>
+  
+  Name:         mehlah
+  Site:         <https://github.com/mehlah>
+  
