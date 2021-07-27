@@ -1,6 +1,6 @@
 'use strict';
 
-const staticCacheName = "version-20210727233501";
+const staticCacheName = "version-20210728000857";
 const pagesCacheName  = 'pages';
 const imagesCacheName = 'images';
 
@@ -63,9 +63,9 @@ const offlinePages = [
     
     '/code-of-conduct/',
     
-    '/en/thym/',
+    '/en/team/',
     
-    '/thym/',
+    '/team/',
     
     '/en/legal-mentions/',
     
