@@ -1,6 +1,6 @@
 'use strict';
 
-const staticCacheName = "version-20210728000857";
+const staticCacheName = "version-20210729092147";
 const pagesCacheName  = 'pages';
 const imagesCacheName = 'images';
 
@@ -57,9 +57,9 @@ const offlinePages = [
     
     '/merci/',
     
-    '/en/coming-anduze/',
+    '/venir-maulevrier/',
     
-    '/venir-anduze/',
+    '/en/coming-anduze/',
     
     '/code-of-conduct/',
     
