@@ -1,1 +1,1 @@
-Sitemap: https://festival.xn--brutdeth-i1a.fr/sitemap.xml
+Sitemap: http://localhost:4000/sitemap.xml
